@@ -873,7 +873,7 @@ input[type='checkbox'] {
 .form-1 {
 	padding-top: 6rem;
 	padding-bottom: 6.25rem;
-	background-color: #ffbd50;
+	background-color: #2d3092;
 }
 
 .form-1 h2 {
@@ -885,7 +885,7 @@ input[type='checkbox'] {
 .form-1 .help-block,
 .form-1 .checkbox,
 .form-1 .checkbox a {
-	color: #333;
+	color: #2d3092;
 }
 
 .form-1 p {
@@ -893,7 +893,7 @@ input[type='checkbox'] {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #333;
+	color: #2d3092;
 	font-size: 0.5rem;
 	line-height: 1.5rem;
 }
@@ -948,7 +948,7 @@ input[type='checkbox'] {
 .basic-1 {
 	padding-top: 3.75rem;
 	padding-bottom: 3.5rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .basic-1 h2 {
@@ -967,7 +967,7 @@ input[type='checkbox'] {
 .basic-2 {
 	padding-top: 3.5rem;
 	padding-bottom: 2.75rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .basic-2 h2 {
@@ -984,7 +984,7 @@ input[type='checkbox'] {
 	width: 2.125rem;
 	height: 2.125rem;
 	border-radius: 50%;
-	background-color: #ffbd50;
+	background-color: #2d3092;
 	color: #333;
 	font-style: normal;
 	font-weight: 700;
@@ -1000,7 +1000,7 @@ input[type='checkbox'] {
 .basic-3 {
 	padding-top: 2.75rem;
 	padding-bottom: 4rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .basic-3 .text-container {
@@ -1027,7 +1027,7 @@ input[type='checkbox'] {
 	margin: 2.5rem auto;
 	padding: 2rem 1.5rem 2rem 1.5rem;
 	border-radius: 0.25rem;
-	background: #fbf9f5;
+	background: #ffffff;
 	text-align: left;
 }
 
@@ -1126,7 +1126,7 @@ input[type='checkbox'] {
 .basic-4 {
 	padding-top: 4rem;
 	padding-bottom: 3rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .basic-4 h2 {
@@ -1229,7 +1229,7 @@ input[type='checkbox'] {
 .cards {
 	padding-top: 3rem;
 	padding-bottom: 2rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .cards h2 {
@@ -1259,12 +1259,12 @@ input[type='checkbox'] {
 	margin-bottom: 1.5rem;
 	margin-left: auto;
 	border-radius: 50%;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .cards .fas,
 .cards .far {
-	color: #ffbd50;
+	color: #2d3092;
 	font-size: 3rem;
 	line-height: 6rem;
 }
@@ -1284,7 +1284,7 @@ input[type='checkbox'] {
 .slider-2 {
 	padding-top: 2.5rem;
 	padding-bottom: 4rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .slider-2 h3 {
@@ -1389,7 +1389,7 @@ input[type='checkbox'] {
 .form-2 {
 	padding-top: 8.125rem;
 	padding-bottom: 5.75rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .form-2 h3 {
@@ -1437,7 +1437,7 @@ input[type='checkbox'] {
 .form-3 {
 	padding-top: 6.125rem;
 	padding-bottom: 5.125rem;
-	background-color: #ffbd50;
+	background-color: #2d3092;
 }
 
 .form-3 .text-container {
@@ -1479,8 +1479,8 @@ input[type='checkbox'] {
 
 .form-3 .form-control-input,
 .form-3 .form-control-textarea {
-	border: 1px solid #ffedd0;
-	background-color: #ffedd0;
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
 }
 
 .form-3 .form-control-input:hover,
@@ -1500,8 +1500,8 @@ input[type='checkbox'] {
 }
 
 .form-3 .form-control-submit-button:hover {
-	border: 0.125rem solid #ffedd0;
-	background-color: #ffedd0;
+	border: 0.125rem solid #ffffff;
+	background-color: #ffffff;
 }
 
 
@@ -1613,7 +1613,7 @@ a:hover.back-to-top {
 .ex-basic-1 {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
-	background-color: #efebe5;
+	background-color: #000000;
 }
 
 .ex-basic-1 .breadcrumbs {
@@ -1629,7 +1629,7 @@ a:hover.back-to-top {
 .ex-basic-2 {
 	padding-top: 4.75rem;
 	padding-bottom: 4rem;
-	background-color: #fbf9f5;
+	background-color: #ffffff;
 }
 
 .ex-basic-2 h3 {
@@ -1646,7 +1646,7 @@ a:hover.back-to-top {
 
 .ex-basic-2 .text-container.dark {
 	padding: 1.625rem 1.5rem 0.75rem 2rem;
-	background-color: #efebe5;
+	background-color: #000000;
 }
 
 .ex-basic-2 .image-container-large {
@@ -1662,7 +1662,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #ffbd50;
+	color: #2d3092;
 	font-size: 0.5rem;
 	line-height: 1.5rem;
 }
