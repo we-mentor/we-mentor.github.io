@@ -270,9 +270,9 @@ a:hover {
 	padding-top: 1.0625rem;
 	padding-bottom: 0.0625rem;
 	padding-left: 1.3125rem;
-	border: 1px solid #c4d8dc;
+	border: 1px solid #ffffff;
 	border-radius: 0.25rem;
-	background-color: #fff;
+	background-color: #ffffff;
 	color: #555;
 	font: 400 0.875rem/1.875rem "Montserrat", sans-serif;
 	transition: all 0.2s;
@@ -897,22 +897,13 @@ input[type='checkbox'] {
 }
 
 .form-1 .form-control-input {
-	border: 1px solid #ffedd0;
-	background-color: #ffedd0;
-}
-
-.form-1 .form-control-input:hover {
-	border: 1px solid #fff;
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
 }
 
 .form-1 .form-control-submit-button {
-	border: 0.125rem solid #333;
-	background-color: transparent;
-}
-
-.form-1 .form-control-submit-button:hover {
-	border: 0.125rem solid #ffedd0;
-	background-color: #ffedd0;
+	border: 0.125rem solid #ffffff;
+	background-color: #ffffff;
 }
 
 
@@ -922,7 +913,7 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 3.5rem;
 	padding-bottom: 3rem;
-	background-color: #fbf9f5;
+	background-color: #2d3092;
 	text-align: center;
 }
 
